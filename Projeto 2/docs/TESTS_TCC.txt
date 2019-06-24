@@ -24,6 +24,8 @@
 - BATCH 64:
 	- 20 EPOCHS: 65.6%
 	- 50 EPOCHS: 59.2%
+	- 100 EPOCHS: 62.8%
+
 - BATCH 128:
 	- 20 EPOCHS: 64.7%
 
