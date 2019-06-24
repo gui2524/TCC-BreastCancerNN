@@ -18,6 +18,13 @@
 
 [C] ROI CALC:
 1: MLO AND CC (2 CAT):
--
+- BATCH 32
+	- 20 EPOCHS: 64.3%
+	- 20 EPOCHS sem altera ordem pool: 62.7%
+- BATCH 64:
+	- 20 EPOCHS: 65.6%
+	- 50 EPOCHS: 59.2%
+- BATCH 128:
+	- 20 EPOCHS: 64.7%
 
 Imagens de caso do A.Prof Frank Gaillard, Radiopaedia.org, rID: 12608

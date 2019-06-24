@@ -22,8 +22,7 @@ else:
     
 mal_dest_dir = "C:\\Users\\Guilherme\\Desktop\\IMGMEDICAS\\" + folder + "_DIV\\MALIGNANT\\"
 ben_dest_dir = "C:\\Users\\Guilherme\\Desktop\\IMGMEDICAS\\" + folder + "_DIV\\BENIGN\\"  
-ben_cb_dest_dir = "C:\\Users\\Guilherme\\Desktop\\IMGMEDICAS\\" + folder + "_DIV\\BENIGN_WO_CB\\" 
-i = 0     
+
 for item in your_list:
         wildcard = r'C:/Users/Guilherme/Desktop/IMGMEDICAS/' + folder +'/CBIS-DDSM/' + '*' + str(item[0]) + '*' +'/*/*/*.png'
         for file in glob.glob(wildcard):
@@ -32,7 +31,7 @@ for item in your_list:
             elif item[9] == 'BENIGN':
                 dest_dir = ben_dest_dir
             elif item[9] == 'BENIGN_WITHOUT_CALLBACK':
-                dest_dir = ben_cb_dest_dir
+                dest_dir = ben_dest_dir 
         
             print(file + " moved")
             shutil.move(file, dest_dir)
