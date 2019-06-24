@@ -1,4 +1,4 @@
-FULL CALC:
+[A] FULL CALC:
 1: MLO AND CC (2 CAT)
 - BATCH: 64
 	- 20 EPOCHS: 55.2%
@@ -9,5 +9,15 @@ FULL CALC:
 	- 50 EPOCHS: 59.1%
 
 
-ROI CALC:
+[B] ROI CALC:
 1: MLO AND CC (3 CAT)
+- BATCH: 32
+	- 20 EPOCHS: 49%
+- BATCH: 64 e 256 neurons
+	- 20 EPOCHS: 
+
+[C] ROI CALC:
+1: MLO AND CC (2 CAT):
+-
+
+Imagens de caso do A.Prof Frank Gaillard, Radiopaedia.org, rID: 12608
