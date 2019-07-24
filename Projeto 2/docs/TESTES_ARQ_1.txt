@@ -1,0 +1,12 @@
+- Teste 1:
+	Batch = 64
+	epoch = 20
+	imgsize = 64
+	learning = 0.0001 
+	61.35%
+
+	Batch = 64
+	epoch = 20
+	imgsize = 64
+	learning = 0.001 
+	??
