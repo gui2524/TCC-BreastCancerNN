@@ -3,4 +3,18 @@
 	epoch = 20
 	imgsize = 64
 	learning = 0.0001 
-	63.19%
+	63.49%
+
+
+	Batch = 64
+	epoch = 50
+	imgsize = 64
+	learning = 0.0001 
+	62.57%
+
+- 2 Conv
+	Batch = 64
+	epoch = 20
+	imgsize = 64
+	learning = 0.0001 
+	66.25%
