@@ -18,3 +18,9 @@
 	imgsize = 64
 	learning = 0.0001 
 	66.25%
+
+	Batch = 64
+	epoch = 50
+	imgsize = 64
+	learning = 0.0001 
+	64.72%
