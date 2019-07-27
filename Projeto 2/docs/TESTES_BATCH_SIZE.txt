@@ -1,0 +1,23 @@
+- 8 
+	20 epochs: 
+	30 epochs:
+
+
+- 16 
+	20 epochs: 
+	30 epochs:
+
+
+- 32
+	20 epochs: 
+	30 epochs:
+
+
+- 64 
+	20 epochs: 
+	30 epochs:
+
+
+- 128 
+	20 epochs: 
+	30 epochs:
