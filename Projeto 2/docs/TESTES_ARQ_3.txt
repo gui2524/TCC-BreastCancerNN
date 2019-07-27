@@ -1,0 +1,13 @@
+- 3 FullyConn	
+	Batch = 64
+	epoch = 20
+	imgsize = 64
+	learning = 0.0001 
+	62.88%
+
+
+	Batch = 64
+	epoch = 50
+	imgsize = 64
+	learning = 0.0001 
+	63.42%
