@@ -1,0 +1,10 @@
+- Cancer de mama em homens
+- Cancer de mama de pele nao melanoma
+	- 3 bilhoes de casos no EUA por ano
+- Garantir conceitos IA e redes
+- Garantir conhecimento sobre benchmarks e data augmentation
+- Garantir conhecimneto CAD
+	- Muita coisa de imagem histologicas
+- Garantir conhecimentos BI-RADS
+- Grantir conhecimentos tensoflow
+- Pesquisar aonde CBIS-DDSM ja foi usado
