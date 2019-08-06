@@ -8,3 +8,4 @@
 - Garantir conhecimentos BI-RADS
 - Grantir conhecimentos tensoflow
 - Pesquisar aonde CBIS-DDSM ja foi usado
+- Porque nao usou AutoAugment
